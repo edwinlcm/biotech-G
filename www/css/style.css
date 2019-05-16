@@ -1,0 +1,22 @@
+/* Empty. Add your own CSS if you like */
+.A{
+	background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdO73o3LYKfjL8GR-07r7ZGRY2V6YH7WSjAZlt_WddWGAdn-XaKA);
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: monospace;
+  align-items: center;
+  justify-content: center;
+}
+
+p {
+    margin-top: 20px;
+    text-align: center;
+}
+
+canvas {
+  display: block;
+  margin: 20px auto;
+  background: black url("http://api.thumbr.it/whitenoise-560x800.png?background=0f1517ff&noise=626262&density=67&opacity=15") repeat fixed center;
+}
