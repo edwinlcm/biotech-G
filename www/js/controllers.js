@@ -165,24 +165,24 @@ var fields = document.querySelectorAll(".atras");
 
 
 var images = [
-"http://images04.olx.com.ve/ui/10/47/77/1291652156_144454077_1-Clases-y-Asesorias-de-Quimica-Biologia-Naturales-y-Metodologia-de-la-Investigacion-Valle-Arriba-1291652156.jpg",
-"https://i.pinimg.com/236x/57/b0/b7/57b0b72eb62f50cdd30061964e399c77.jpg",
-"https://s-media-cache-ak0.pinimg.com/originals/b6/df/d7/b6dfd79c625f9ebe14709a9b75224962.png",
-"https://s-media-cache-ak0.pinimg.com/originals/76/e7/a3/76e7a392abff7c8a22969f7c95f37d4c.png",
-"https://s-media-cache-ak0.pinimg.com/originals/cb/ca/50/cbca50fc5156fb15b68bd3ab5dae6e06.png",
-"https://s-media-cache-ak0.pinimg.com/originals/de/b9/70/deb9709e87f1d5b7f6457e8286113012.png",
-"https://s-media-cache-ak0.pinimg.com/originals/29/9e/c7/299ec7c3cd62b88dd4905ffc6a71d8f9.png",
-"https://s-media-cache-ak0.pinimg.com/originals/74/11/00/74110094c67aa9a519c70ecb7cec7d76.png",
-"http://diysolarpanelsv.com/images/neville-clipart-4.png",
-"http://images04.olx.com.ve/ui/10/47/77/1291652156_144454077_1-Clases-y-Asesorias-de-Quimica-Biologia-Naturales-y-Metodologia-de-la-Investigacion-Valle-Arriba-1291652156.jpg",
-"https://s-media-cache-ak0.pinimg.com/originals/4b/ae/6c/4bae6cba8ec4060b5c4059ad2ce9c329.png",
-"https://s-media-cache-ak0.pinimg.com/originals/b6/df/d7/b6dfd79c625f9ebe14709a9b75224962.png",
-"https://s-media-cache-ak0.pinimg.com/originals/76/e7/a3/76e7a392abff7c8a22969f7c95f37d4c.png",
-"https://s-media-cache-ak0.pinimg.com/originals/cb/ca/50/cbca50fc5156fb15b68bd3ab5dae6e06.png",
-"https://s-media-cache-ak0.pinimg.com/originals/de/b9/70/deb9709e87f1d5b7f6457e8286113012.png",
-"https://s-media-cache-ak0.pinimg.com/originals/29/9e/c7/299ec7c3cd62b88dd4905ffc6a71d8f9.png",
-"https://s-media-cache-ak0.pinimg.com/originals/74/11/00/74110094c67aa9a519c70ecb7cec7d76.png",
-"http://diysolarpanelsv.com/images/neville-clipart-4.png"
+"https://i.pinimg.com/originals/ed/da/9c/edda9c081bc3f73c0a7091d17047aaf1.jpg",
+"https://st2.depositphotos.com/4455145/6815/v/950/depositphotos_68157337-stock-illustration-condom-contraceptive-and-package.jpg",
+"https://www.mdsaude.com/wp-content/uploads/controle-de-natalidade.jpg",
+"https://www.monografias.com/trabajos91/sobre-metodos-anticonceptivos/image009.jpg",
+"http://emanuelkant5to.blogspot.es/media/cache/resolve/media/files/00/939/495/2015/10/1445014113_personaje-de-dibujos-animados-del-super-h-oroe-del-cond-in-40165082.jpg",
+"https://st3.depositphotos.com/5984660/19394/v/1600/depositphotos_193940698-stock-illustration-condom-view-from-above-cartoon.jpg",
+"https://st3.depositphotos.com/5984660/19394/v/1600/depositphotos_193940698-stock-illustration-condom-view-from-above-cartoon.jpg",
+"https://e00-elmundo.uecdn.es/elmundosalud/especiales/2004/12/anticonceptivos/imagenes/portada2.jpg",
+"https://cnd-harmonia.scdn1.secure.raxcdn.com/imagesPosts/diu.jpg",
+"https://i.pinimg.com/originals/ed/da/9c/edda9c081bc3f73c0a7091d17047aaf1.jpg",
+"https://st2.depositphotos.com/4455145/6815/v/950/depositphotos_68157337-stock-illustration-condom-contraceptive-and-package.jpg",
+"https://www.mdsaude.com/wp-content/uploads/controle-de-natalidade.jpg",
+"https://www.monografias.com/trabajos91/sobre-metodos-anticonceptivos/image009.jpg",
+"http://emanuelkant5to.blogspot.es/media/cache/resolve/media/files/00/939/495/2015/10/1445014113_personaje-de-dibujos-animados-del-super-h-oroe-del-cond-in-40165082.jpg",
+"https://st3.depositphotos.com/5984660/19394/v/1600/depositphotos_193940698-stock-illustration-condom-view-from-above-cartoon.jpg",
+"https://st3.depositphotos.com/5984660/19394/v/1600/depositphotos_193940698-stock-illustration-condom-view-from-above-cartoon.jpg",
+"https://e00-elmundo.uecdn.es/elmundosalud/especiales/2004/12/anticonceptivos/imagenes/portada2.jpg",
+"https://cnd-harmonia.scdn1.secure.raxcdn.com/imagesPosts/diu.jpg",
 ];
 // verificacion de los clicks
 function clicked() { 
